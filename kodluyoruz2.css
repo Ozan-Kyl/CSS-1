@@ -1,0 +1,26 @@
+/*--------------------------------------------------------------------------CLASS - ID CSS KULLANIMI--------------------------------------------------------------------------------*/
+h1 ,h2, h3 ,h4 ,h5, h6 {
+    font-size: 30px;
+    color: blueviolet;
+}
+
+
+.fs13 {
+    font-size:  13px;
+    color: bisque;
+}
+
+.fs20 {
+    font-size: 20px;
+    color: blue;
+}
+
+.fs30 {
+    font-size: 30px;
+    color: chartreuse;
+}
+
+#first-article {
+    font-size: 40px;
+    color: blueviolet;
+}

@@ -1,0 +1,23 @@
+/*------------------------------------------------------------------ INLINE - INTERNAL - EXTERNAL CSS KULLANIMI  --------------------------------------------------------------------*/
+        h2 {
+            color: purple;
+            font-size: 64px;
+        }
+        
+        p {
+            font-size: 30px;
+            text-transform: uppercase;
+        }
+        
+        h1 {
+            font-size: 70px;
+        }
+        body {
+            background-color: black;
+            color: white; 
+            font-family: "Roboto", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: weight;
+            font-style: "normal";
+            font-variation-settings:"wdth" 100;
+            }
